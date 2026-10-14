@@ -85,7 +85,7 @@ The positioning canvas is generated as an HTML artifact — clean, professional,
 
 Framework based on April Dunford's [*Obviously Awesome*](https://www.aprildunford.com/obviously-awesome) (2019).
 
-Interactive adaptation designed by [Abhimanyu Pradeep](https://www.linkedin.com/in/abhimanyupradeep/) ([Happilee](https://happilee.io)).
+Interactive adaptation designed by [Abhimanyu Pradeep](https://www.linkedin.com/in/abhimanyupradeep/) 
 
 ## License
 
